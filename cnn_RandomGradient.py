@@ -18,8 +18,8 @@ class netural_network:
 
 
     def __init__(self,
-                 inputs_num=144,
-                 outputs_num=144,
+                 inputs_num=45,
+                 outputs_num=45,
                  hidden_nums=[200,200,200],
                  learn_rate=0.01,
                  epoch_times=1000,
